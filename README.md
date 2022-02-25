@@ -2,7 +2,7 @@
 
 
 
-<div align="center">
+<div>
   <a href="https://github.com/camilamafioletti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilamafioletti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img align="" alt="Camila-pic" height="180" width="400" " src="https://media1.giphy.com/media/137EaR4vAOCn1S/giphy.gif?cid=790b76112951ab39947a7e9f6beca45f66943dc6671a259d&rid=giphy.gif&ct=g">
