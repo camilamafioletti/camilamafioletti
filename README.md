@@ -1,10 +1,11 @@
-## Olá! ^_^
+## Olá! (✿◡‿◡)
 
 
 
 <div>
   <a href="https://github.com/camilamafioletti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilamafioletti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
     <img align="right" alt="Camila-pic" height="180" src="https://media1.giphy.com/media/137EaR4vAOCn1S/giphy.gif?cid=790b76112951ab39947a7e9f6beca45f66943dc6671a259d&rid=giphy.gif&ct=g">
 
 <div style="display: inline_block"><br>
