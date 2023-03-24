@@ -3,6 +3,7 @@
 
 
 <div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a4169f&height=120&section=header"/>
 
 
 <div style="display: inline_block"><br>
@@ -23,3 +24,4 @@
   ![Snake animation](https://github.com/camilamafioletti/camilamafioletti/blob/output/github-contribution-grid-snake.svg)
 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a4169fheight=120&section=footer"/>
