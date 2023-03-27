@@ -3,6 +3,8 @@
 <h1 align = "center">  🌼 𝑩𝒆𝒎 𝒗𝒊𝒏𝒅𝒐 (𝒂) 🌼 </h1>
 <br>
 
+<img src="https://github-readme-stats.vercel.app/api?username=camilamafioletti&theme=apprentice&show_icons=true"  >
+  </div>
 
 <div>
 
@@ -42,7 +44,7 @@
 <br>
 <h2 align="center">           📪  𝒄𝒐𝒏𝒕𝒂𝒕𝒐  📪</h2>
   <div align="center">
-<img src="https://media0.giphy.com/media/VJwIWH9q17rGg/200w.webp?cid=ecf05e47ipxt7g8hsshu180oolbwccq81oqle5m3zcfmvvs7&rid=200w.webp&ct=g" align="right" width="450px" height="180xp" >
+
   </div>
 <br>
 <p align="center">Aqui está meu email <br>
