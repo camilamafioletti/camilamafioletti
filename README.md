@@ -2,9 +2,20 @@
 <body>
 <h1 align = "center">  🌼 𝑩𝒆𝒎 𝒗𝒊𝒏𝒅𝒐 (𝒂) 🌼 </h1>
 <br>
+  
+<div>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilamafioletti&layout=compact&langs_count=16&theme=graywhite" align="right">
 
-<img src="https://github-readme-stats.vercel.app/api?username=camilamafioletti&theme=apprentice&show_icons=true"  >
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=camilamafioletti&theme=graywhite&show_icons=true" >
+  
+
+
+  
+
+
   </div>
+  
+  
 
 <div>
 
