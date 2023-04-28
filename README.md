@@ -30,7 +30,7 @@
 <b>🖥️</b> Estudando C# 
 </li>
 <li>
-<b>⭐</b> Quero aprender front-end e novas linguagens
+<b>⭐</b> Quero aprender front-end também
 </li>
 <li>
 <b>💼</b> Não estou trabalhando
