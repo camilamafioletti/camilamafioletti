@@ -32,19 +32,6 @@
 <br><br><br>
 </div>
 <div>
-
-<h2 align="center"> 🗝️ 𝒄𝒐𝒏𝒉𝒆𝒄𝒊𝒎𝒆𝒏𝒕𝒐 🗝️  </h2>
- <br>
-<p>
-  <div align="center">
-<img src="https://media0.giphy.com/media/hkFgpYE8CRqog/200w.webp?cid=ecf05e47jbzq13gurqaxmdqm1d6t07tp2xgm8wl76ciktnx6&rid=200w.webp&ct=g" align="right" width="250px" height="100.5px" >
-  </div>
-</div>
-<div>
-  <br>
-<p align="left">
-<li><b>Aprendendo:</b> Estou aprendendo a linguagem c# no momento.</li>  
-
 </p>
 <br>
 <h2 align="center">           📪  𝒄𝒐𝒏𝒕𝒂𝒕𝒐  📪</h2>
