@@ -4,10 +4,10 @@
 <br>
   
 <div>
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilamafioletti&layout=compact&langs_count=16&theme=graywhite" align="right">
+<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilamafioletti&layout=compact&langs_count=16&theme=graywhite" align="right">
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=camilamafioletti&theme=graywhite&show_icons=true" >
-  
+  <br>
 
 
   
