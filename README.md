@@ -52,5 +52,3 @@ e linkedin</p>
     </center>
 </body>
 
-  ![Snake animation](https://github.com/camilamafioletti/camilamafioletti/blob/output/github-contribution-grid-snake.svg)
-
