@@ -27,13 +27,7 @@
 <li>
  <b>👩‍💼</b> Camila Mafioletti </li>
 <li>
-<b>🖥️</b> Estudando C# 
-</li>
-<li>
-<b>⭐</b> Quero aprender front-end também
-</li>
-<li>
-<b>💼</b> Não estou trabalhando
+<b>🖥️</b> Estudando para me tornar uma desenvolvedora full stack
 </li>
 <br><br><br>
 </div>
