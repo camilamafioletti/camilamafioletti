@@ -8,15 +8,7 @@
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=camilamafioletti&theme=graywhite&show_icons=true" >
   <br>
-
-
-  
-
-
   </div>
-  
-  
-
 <div>
 
 <h2 align="center"> 🦊  𝒔𝒐𝒃𝒓𝒆 𝒎𝒊𝒎  🦊 </h2>
@@ -27,7 +19,25 @@
 <li>
  <b>👩‍💼</b> Camila Mafioletti </li>
 <li>
-<b>🖥️</b> Estudando para me tornar uma desenvolvedora full stack
+<b>🖥️</b> Lógica de Programação 
+  · .NET Core 
+  · Orientação a Objetos 
+  · Arquitetura em Camadas 
+  · MSTest 
+  · Testes automatizados de software 
+  · Entity Framework (EF) Core 
+  · ASP.NET Web Apis 
+  · Teste de integração 
+  · HTML 
+  · CSS 
+  · Microsoft Visual Studio 
+  · Git 
+  · TypeScript 
+  · Angular (Framework) 
+  · Banco de dados 
+  · Microsoft SQL Server 
+  · C#
+  
 </li>
 <br><br><br>
 </div>
